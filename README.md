@@ -1,2 +1,1 @@
-# Iris-Data-Collection
-Iris Data Collection
+# Iris-Flower-Dataset-Classification
